@@ -10,7 +10,7 @@ Bugs/Crashes should Include the following and be titled as so and also labled as
 
 - [ ] iOS Version
 - [ ] Instagram Version
-- [ ] IG ++ Tweak Version
+- [ 1] IG ++ Tweak Version
 - [ ] Crash Report: http://tweakcrashed.com
 - [ ] Please label the issue either Jailbreak or Sideloaded
 
